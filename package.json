@@ -1,0 +1,27 @@
+{
+  "name": "cute-files-clone",
+  "version": "0.0.1",
+  "description": "What I follow cute files tutorials with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/setkyar/cute-files-clone.git"
+  },
+  "keywords": [
+    "cute"
+  ],
+  "author": "Set Kyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setkyar/cute-files-clone/issues"
+  },
+  "homepage": "https://github.com/setkyar/cute-files-clone",
+  "dependencies": {
+    "commander": "^2.6.0",
+    "content-disposition": "^0.5.0",
+    "express": "^4.11.1"
+  }
+}
